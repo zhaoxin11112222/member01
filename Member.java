@@ -1,6 +1,6 @@
 
 
-public class member {
+public class Member {
 	private String name,gender,email,city;
 	private Integer id,age;
 	public String getName() {
