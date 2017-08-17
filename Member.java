@@ -3,6 +3,8 @@
 public class Member {
 	private String name,gender,email,city;
 	private Integer id,age;
+	Public Member(){}
+	
 	public String getName() {
 		return name;
 	}
